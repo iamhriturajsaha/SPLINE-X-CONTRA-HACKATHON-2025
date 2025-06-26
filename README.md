@@ -31,7 +31,7 @@ A realistic, **revolving 3D representation of Earth** designed to showcase the p
 
 ## 🎥 Demo Video
 
-Watch the live demo here: (Demo Video.mp4)
+🎬 [Click to watch the demo video](https://github.com/iamhriturajsaha/SPLINE-X-CONTRA-HACKATHON-2025/raw/main/Demo%20Video.mp4)
 
 ---
 
