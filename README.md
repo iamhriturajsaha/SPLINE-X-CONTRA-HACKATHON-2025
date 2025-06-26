@@ -31,7 +31,7 @@ A realistic, **revolving 3D representation of Earth** designed to showcase the p
 
 ## 🎥 Screenshot
 
-🎬 Thumbnail.png
+![Image](Rank.png)
 
 ---
 
