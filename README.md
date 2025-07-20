@@ -1,8 +1,8 @@
-# 🎨 SPLINE X CONTRA HACKATHON 2025
+# 🎨 Spline X Contra Hackathon 2025
 
 ## 🚀 Overview
 
-This project was created as part of the **Spline X Contra Hackathon**, where I built **two interactive and visually immersive websites** by combining **Spline**, **Hana**, and **Webflow**. The focus was on merging creativity with interactivity, delivering both aesthetic appeal and functional storytelling through modern web technologies.
+This project was created as part of the **Spline X Contra Hackathon**, where I built **two interactive and visually immersive websites** by combining **Spline**, **Hana** and **Webflow**. The focus was on merging creativity with interactivity, delivering both aesthetic appeal and functional storytelling through modern web technologies.
 
 ---
 
