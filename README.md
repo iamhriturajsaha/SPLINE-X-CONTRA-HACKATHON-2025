@@ -8,24 +8,24 @@ This project was created as part of the **Spline X Contra Hackathon**, where I b
 
 ## 🌐 Projects
 
-### 🎧 1. TuneUp — Vibrant Harmonize Website
+### 🎧 1. TuneUp -
 A lively and animated web experience inspired by the rhythm and flow of music. Built with **Spline** and **Hana**, TuneUp captures the essence of musical harmony through vibrant 3D design and smooth transitions.
 
 Link - https://tuneup.webflow.io/
 
-- 🌈 Features:
+- 🌈 Features -
   - Bright, animated visual themes
   - Interactive 3D elements via Spline
   - Seamless integration with Webflow and Hana for responsiveness
 
 ---
 
-### 🌍 2. The Blue Planet Earth — 3D Earth Experience
+### 🌍 2. The Blue Planet Earth -
 A realistic, **revolving 3D representation of Earth** designed to showcase the planet’s natural beauty. This project highlights environmental elements and uses motion to create an engaging educational and visual experience.
 
 Link - https://the-planet-earth.webflow.io/
 
-- 🌎 Features:
+- 🌎 Features -
   - Fully rotatable 3D globe made in Spline
   - Representations of nature (land, water, air)
   - Informative hover zones and dynamic lighting
