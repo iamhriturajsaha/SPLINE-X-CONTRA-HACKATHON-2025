@@ -23,6 +23,8 @@ Link - https://tuneup.webflow.io/
 ### 🌍 2. The Blue Planet Earth — 3D Earth Experience
 A realistic, **revolving 3D representation of Earth** designed to showcase the planet’s natural beauty. This project highlights environmental elements and uses motion to create an engaging educational and visual experience.
 
+Link - https://the-planet-earth.webflow.io/
+
 - 🌎 Features:
   - Fully rotatable 3D globe made in Spline
   - Representations of nature (land, water, air)
