@@ -10,6 +10,7 @@ This project was created as part of the **Spline X Contra Hackathon**, where I b
 
 ### 🎧 1. TuneUp — Vibrant Harmonize Website
 A lively and animated web experience inspired by the rhythm and flow of music. Built with **Spline** and **Hana**, TuneUp captures the essence of musical harmony through vibrant 3D design and smooth transitions.
+
 Link - https://tuneup.webflow.io/
 
 - 🌈 Features:
