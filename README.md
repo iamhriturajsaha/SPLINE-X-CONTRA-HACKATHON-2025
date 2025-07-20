@@ -43,7 +43,6 @@ Link - https://the-planet-earth.webflow.io/
 - Spline
 - Hana
 - Webflow
-
 ---
 
 ## 🏁 Outcome
