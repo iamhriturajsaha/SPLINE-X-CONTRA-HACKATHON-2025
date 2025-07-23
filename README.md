@@ -47,4 +47,4 @@ Link - https://the-planet-earth.webflow.io/
 
 ## 🏁 Outcome
 
-Successfully built two distinct web experiences that explore how **3D design and modern web tools** can be used to tell stories, educate, and entertain all in the browser.
+Successfully built two distinct web experiences that explore how **3D design and modern web tools** can be used to tell stories, educate and entertain all in the browser.
