@@ -32,7 +32,7 @@ Link - https://the-planet-earth.webflow.io/
 
 ---
 
-## 🎥 Screenshot
+## 🎥 Thumbnail
 
 ![Image](Thumbnail.png)
 
