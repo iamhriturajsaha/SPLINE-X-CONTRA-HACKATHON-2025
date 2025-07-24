@@ -1,4 +1,4 @@
-# 🎨 Spline X Contra Hackathon 2025
+# 🎨Spline X Contra Hackathon 2025
 
 ## 🚀 Overview
 
